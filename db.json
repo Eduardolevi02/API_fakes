@@ -1,21 +1,4 @@
 {
-  "frases": [
-    {
-      "id": 1,
-      "content": "Esta é uma frase vinda da sua API fake! (db.json)",
-      "author": "Seu Repositório"
-    },
-    {
-      "id": 2,
-      "content": "O sucesso é a soma de pequenos esforços repetidos.",
-      "author": "Robert Collier (Fake)"
-    },
-    {
-      "id": 3,
-      "content": "A melhor maneira de prever o futuro é criá-lo.",
-      "author": "Peter Drucker (Fake)"
-    }
-  ],
   "tarefas": [
     {
       "id": 1,
