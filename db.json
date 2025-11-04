@@ -1,0 +1,45 @@
+{
+  "frases": [
+    {
+      "id": 1,
+      "content": "Esta é uma frase vinda da sua API fake! (db.json)",
+      "author": "Seu Repositório"
+    },
+    {
+      "id": 2,
+      "content": "O sucesso é a soma de pequenos esforços repetidos.",
+      "author": "Robert Collier (Fake)"
+    },
+    {
+      "id": 3,
+      "content": "A melhor maneira de prever o futuro é criá-lo.",
+      "author": "Peter Drucker (Fake)"
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Caminhei 10 minutos ou mais. (da API Fake)",
+      "data": "2025-11-04",
+      "concluida": false
+    },
+    {
+      "id": 2,
+      "descricao": "Tome 2L ou mais de água! (da API Fake)",
+      "data": "2025-11-04",
+      "concluida": true
+    },
+    {
+      "id": 3,
+      "descricao": "Anotei algo positivo hoje! (da API Fake)",
+      "data": "2025-11-04",
+      "concluida": false
+    },
+    {
+      "id": 4,
+      "descricao": "Tarefa bónus vinda da sua API Fake.",
+      "data": "2025-11-04",
+      "concluida": false
+    }
+  ]
+}
